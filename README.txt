@@ -1,6 +1,11 @@
 # Licensed to the Apache Software Foundation (ASF) under one or more
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRevFossa%2Franger.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FRevFossa%2Franger?ref=badge_shield)
+
 # contributor license agreements.  See the NOTICE file distributed with
 # this work for additional information regarding copyright ownership.
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRevFossa%2Franger.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FRevFossa%2Franger?ref=badge_large)
+
 # The ASF licenses this file to You under the Apache License, Version 2.0
 # (the "License"); you may not use this file except in compliance with
 # the License.  You may obtain a copy of the License at
@@ -94,4 +99,3 @@ Installation Process
 
    If the install.sh file does not exists, 
        Execute ./enable-<component>-plugin.sh
-
